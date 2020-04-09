@@ -1,0 +1,9 @@
+{
+    "title": "Webpack",
+    "entryPoint": {
+        "main": "./src/index.js"
+    },
+    "sourceFolder": "./src",
+    "assetsFolder": "./assets",
+    "indexHTML": "./assets/index.html"
+}
