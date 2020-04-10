@@ -10,6 +10,7 @@ So you can drag elements to their result positions before the spin.
 
 Also, the condition was to count results based on paytable (left top corner), so there is some math implemented.
 
+## Run gmae
 Install dependencies:
 ```
 npm i
